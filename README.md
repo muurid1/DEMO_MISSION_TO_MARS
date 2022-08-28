@@ -37,9 +37,7 @@ We will be adjusting the Web Application to include all four of the hemisphere i
 
 ##### Mars_Facts
 
-<img width="376" alt="Mars_Facts" src="https://user-images.githubusercontent.com/107282754/187096837-
-                                       8dc9dfc7-f55a-41c9-a1f6-72ff44629959.png">
-
+<img width="376" alt="Mars_Facts" src="https://user-images.githubusercontent.com/107282754/187098310-fc6f8bfc-d724-4968-bebd-da249a8ffaca.png">
 
 ##### Web Scraping Urls 
 

@@ -4,7 +4,8 @@
 
 ## Overview of the project
 
-Robin's web app is looking good and functioning well, but she wants to add more polish to it. She had been admiring images of Mars’s hemispheres online and realized that the site is scraping-friendly. She would like to adjust the current web app to include all four of the hemisphere images. To do this, you’ll use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images.
+The purpose of this project is to create a Web Application that scrapes a various websites and display the data in an HTML page to show the results.
+We will be adjusting the Web Application to include all four of the hemisphere images, using BeautifulSoup and Splinter to scrape the full-resolution images of Mars's Hemispheres and the titles of those images and then we will store the scraped data on a Mongo Database.
 
 ### Resources
 
@@ -20,7 +21,7 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 
 • HTML
 
-• Flask, BeautifilSoul, Splinter
+• Flask-PyMongo, BeautifulSoup, Splinter
 
 #### Data Source
 
@@ -31,3 +32,22 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 • https://marshemispheres.com/
 
 • https://spaceimages-mars.com
+
+## Results
+
+##### Mars_Facts
+
+<img width="376" alt="Mars_Facts" src="https://user-images.githubusercontent.com/107282754/187096837-
+                                       8dc9dfc7-f55a-41c9-a1f6-72ff44629959.png">
+
+
+##### Web Scraping Urls 
+
+<img width="693" alt="hemispheres_urls" src="https://user-images.githubusercontent.com/107282754/187096877-15fd89fc-cd95-40de-bf42-3563d06896f9.png">
+
+##### Web App before scraping
+
+<img width="1194" alt="before_scraping" src="https://user-images.githubusercontent.com/107282754/187097172-b81f3375-4c51-4768-b01c-8aa19510a0f2.png">
+
+##### Web App after scraping
+After we have scraped the data, the webpage has the images in full resolution and the titles of the four hemispheres.

@@ -48,4 +48,8 @@ We will be adjusting the Web Application to include all four of the hemisphere i
 <img width="1135" alt="Screen Shot 2022-08-28 at 6 07 51 PM" src="https://user-images.githubusercontent.com/107282754/187098411-ea5cfe02-1676-4da2-b836-7d41355e9288.png">
 
 ##### Web App after scraping
-After we have scraped the data, the webpage has the images in full resolution and the titles of the four hemispheres.
+After we have scraped the data, the webpage has the images in full resolution and the titles of the four hemispheres (see below).
+
+<img width="589" alt="Screen Shot 2022-08-29 at 9 53 10 PM" src="https://user-images.githubusercontent.com/107282754/187338136-8f856163-4732-44a1-b2ee-a7bc07620ca2.png">
+<img width="601" alt="Screen Shot 2022-08-29 at 9 53 23 PM" src="https://user-images.githubusercontent.com/107282754/187338182-a0482aea-3476-4c23-b1d6-b4cc954c8e4d.png">
+
